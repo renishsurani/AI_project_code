@@ -1,0 +1,36 @@
+﻿key_no,keyword,description
+1,and, A logical operator that returns True if both operands are True.
+2,as, Used to create an alias for a module or a function.
+3,assert," Used for debugging purposes to check if a condition is True. If it is False, an AssertionError is raised."
+4,async,This is used to define a coroutine function.
+5,await,This is used to suspend the execution of a coroutine until a result is available.
+6,break, Used to exit from a loop.
+7,class," Used to define a class, which is a blueprint for creating objects."
+8,continue, Used to skip to the next iteration of a loop.
+9,def, Used to define a function.
+10,del, Used to delete an object or a variable.
+11,elif,Used in conditional statements to check for an additional condition after an if statement.
+12,else,Used in conditional statements to specify the block of code to be executed if the condition is False.
+13,except, Used in exception handling to catch and handle an exception.
+14,False, A Boolean value that represents False.
+15,finally, Used in exception handling to specify a block of code that will be executed no matter what.
+16,for, Used to loop over a sequence.
+17,from, Used to import specific attributes or functions from a module.
+18,global, Used to declare a global variable inside a function.
+19,if, Used to specify a block of code to be executed if a condition is True.
+20,import, Used to import a module.
+21,in, Used to check if a value is present in a sequence.
+22,is, Used to check if two objects are the same object.
+23,lambda, Used to create anonymous functions.
+24,None, A special value that represents the absence of a value.
+25,nonlocal,This is used to declare a non-local variable inside a nested function.
+26,not, A logical operator that returns True if the operand is False.
+27,or, A logical operator that returns True if at least one operand is True.
+28,pass, Used as a placeholder when no code is needed.
+29,raise, Used to raise an exception.
+30,return, Used to return a value from a function.
+31,True, A Boolean value that represents True.
+32,try,Used in exception handling to try a block of code and catch any exceptions that may occur.
+33,while, Used to loop over a block of code as long as a condition is True.
+34,with,Used to simplify exception handling by eliminating the need for try-except-finally blocks.
+35,yield, Used to return a generator object.
